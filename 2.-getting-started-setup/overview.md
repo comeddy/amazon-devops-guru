@@ -18,7 +18,7 @@ description: 이번 워크샵의 목적은 DevOps 운영에서 DevOps Guru가 �
 
 다음 다이어그램에 표시된 대로 CloudFormation 스택을 사용하여 [Amazon API Gateway](https://aws.amazon.com/api-gateway), [AWS Lambda](http://aws.amazon.com/lambda),  및 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)로 구성된 서버리스 인프라를 생성하고 목록 레코드에 게시된 API에 HTTP 요청을 고속으로 주입합니다.
 
-![](../.gitbook/assets/architecture-diagram.png)
+<figure><img src="../.gitbook/assets/스크린샷 2023-02-20 오후 9.46.49.png" alt=""><figcaption></figcaption></figure>
 
 DevOps Guru가 계정 내에서 리소스를 모니터링할 수 있도록 설정하면 벤딩된 Amazon CloudWatch 메트릭과 ML 모델의 특정 패턴을 결합하여 이상을 탐지합니다. 이상 징후가 감지되면 권장 사항에 대한 통찰력을 생성합니다. 통찰력의 생성은 몇 가지 요인에 의해 좌우된다.&#x20;
 
