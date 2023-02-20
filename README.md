@@ -18,7 +18,7 @@ AIOps(Artificial Intelligence for IT Operations)는 기계 학습 기술을 사�
 
 <figure><img src=".gitbook/assets/스크린샷 2023-02-20 오후 9.20.40.png" alt=""><figcaption><p>Amazon DevOps Guru 동작원리</p></figcaption></figure>
 
-위 다이어그램에 표시된 대로 CloudFormation 스택을 사용하여 [Amazon API Gateway 로 구성된 서버리스 인프라를 생성합니다. ](https://aws.amazon.com/api-gateway)[AWS Lambda ](http://aws.amazon.com/lambda)및 [Amazon DynamoDB ](https://aws.amazon.com/dynamodb/), 그리고 목록 레코드에 게시된 API에 HTTP 요청을 빠른 속도로 주입합니다.
+위 다이어그램에 표시된 대로 CloudFormation 스택을 사용하여 [Amazon API Gateway 로 구성된 서버리스 인프라를 생성합니다. ](https://aws.amazon.com/api-gateway)[AWS Lambda ](http://aws.amazon.com/lambda)및 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/), 그리고 목록 레코드에 게시된 API에 HTTP 요청을 빠른 속도로 주입합니다.
 
 {% hint style="info" %}
 본 워크샵은 원본 AWS DevOps 블로그 [Amazon DevOps Guru를 사용하여 AIOps로 운영 통찰력 얻기를 기반으로 합니다. ](https://aws.amazon.com/blogs/devops/gaining-operational-insights-with-aiops-using-amazon-devops-guru/)
