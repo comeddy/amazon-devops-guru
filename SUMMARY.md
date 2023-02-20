@@ -16,5 +16,5 @@
   * [Recommendations](4.-review-devops-guru-insights/recommendations.md)
   * [Graphed anomalies](4.-review-devops-guru-insights/graphed-anomalies.md)
   * [Status recovery](4.-review-devops-guru-insights/status-recovery.md)
-* [5. 결론](5..md)
-* [6. 레퍼런스](6..md)
+* [5. Conclusion](5..md)
+* [6. Reference](6..md)
