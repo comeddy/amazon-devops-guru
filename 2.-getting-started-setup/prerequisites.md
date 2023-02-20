@@ -50,9 +50,9 @@ Cloud9에서 사용할 자격 증명을 구성하려면 아래 설명된 단계�
 
 1. [이 링크를](https://console.aws.amazon.com/iam/home#/roles$new?step=review\&commonUseCase=EC2%2BEC2\&selectedUseCase=EC2\&policies=arn:aws:iam::aws:policy%2FAdministratorAccess) 따라 관리자 액세스 권한이 있는 IAM 역할을 생성하십시오.[ ](https://console.aws.amazon.com/iam/home#/roles$new?step=review\&commonUseCase=EC2%2BEC2\&selectedUseCase=EC2\&policies=arn:aws:iam::aws:policy%2FAdministratorAccess).
 2. **AWS 서비스** 및 **EC2** 가 선택 되었는지 확인하고 **다음** 을 클릭 하여 권한을 봅니다.
-3. **AdministratorAccess** 가 선택 되었는지 확인하고 **다음: 태그** 를 클릭하여 태그 를 할당합니다.
+3. **AdministratorAccess**가 선택 되었는지 확인하고 **다음: 태그** 를 클릭하여 태그 를 할당합니다.
 4. 기본값을 사용하고 **다음: 검토** 를 클릭하여 검토합니다.
-5. _이름에_ **devops-workshop-admin** 을 입력 하고 **역할 생성 을** 클릭 합니다.
+5. 이름에 __ **devops-workshop-admin**을 입력 하고 **역할 생성을** 클릭 합니다.
 
 **Cloud9 EC2 인스턴스에 IAM 역할 연결**
 
