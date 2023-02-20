@@ -4,7 +4,7 @@ description: 다음은 DevOps Guru가 활성화된 계정에 설정된 간단한
 
 # 3. AIOps serverless incident
 
-![](<../.gitbook/assets/architecture-diagram (1).png>)
+<figure><img src="../.gitbook/assets/스크린샷 2023-02-20 오후 9.52.45.png" alt=""><figcaption></figcaption></figure>
 
 Amazon DevOps Guru는 활성화된 모든 리소스에 대한 지표를 자동으로 수집하고 분석합니다. 이를 통해 Amazon DevOps Guru는 기준선 또는 정상 작동 패턴을 설정하여 사전 교육 ML 모델이 편차를 감지할 수 있습니다.
 
