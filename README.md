@@ -16,6 +16,8 @@ AIOps(Artificial Intelligence for IT Operations)는 기계 학습 기술을 사�
 
 이 워크숍에서는 일반적인 서버리스 환경에서 계정에 대해 DevOps Guru를 활성화하는 방법을 배우고 다양한 활동에 대해 생성된 통찰력과 권장 사항을 관찰합니다. 이러한 통찰력은 애플리케이션 가용성에 위험을 초래할 수 있는 운영 이벤트에 대해 생성됩니다. DevOps Guru는 AWS CloudFormation 스택을 애플리케이션 경계로 사용하여 리소스 관계를 감지하고 배포 이벤트와 상호 연관시킬 수 있습니다.
 
+<figure><img src=".gitbook/assets/스크린샷 2023-02-20 오후 9.20.40.png" alt=""><figcaption><p>Amazon DevOps Guru 동작원리</p></figcaption></figure>
+
 ![Workshop Architecture](.gitbook/assets/architecture-diagram.png)
 
 위 다이어그램에 표시된 대로 CloudFormation 스택을 사용하여 [Amazon API Gateway 로 구성된 서버리스 인프라를 생성합니다. ](https://aws.amazon.com/api-gateway)[AWS Lambda ](http://aws.amazon.com/lambda)및 [Amazon DynamoDB ](https://aws.amazon.com/dynamodb/), 그리고 목록 레코드에 게시된 API에 HTTP 요청을 빠른 속도로 주입합니다.
